@@ -12,7 +12,7 @@
 }
 nav{
 	background-color:#6e74f3;
-	height:100px;
+	height:35px;
 	width:100%;
 	position:fixed;
 	display:flex;
@@ -39,7 +39,7 @@ main div{
 main{
     display:flex;
 	flex-direction:column;
-	height:50vh;
+	height:60vh;
 	align-items:center;
 	justify-content:center;
 }
