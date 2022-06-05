@@ -39,7 +39,7 @@ main div{
 main{
     display:flex;
 	flex-direction:column;
-	height:60vh;
+	height:70vh;
 	align-items:center;
 	justify-content:center;
 }
